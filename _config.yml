@@ -27,10 +27,12 @@ url: "https://amitgaru2.github.io" # the base hostname & protocol for your site,
 github_username:  amitgaru2
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 codeminimal_mistakes_skin: mint
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
