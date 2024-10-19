@@ -27,8 +27,8 @@ url: "https://amitgaru2.github.io" # the base hostname & protocol for your site,
 github_username:  amitgaru2
 
 # Build settings
-theme: minima
-#theme: al-folio 
+theme: minimal-mistakes-jekyll
+codeminimal_mistakes_skin: mint
 plugins:
   - jekyll-feed
 
