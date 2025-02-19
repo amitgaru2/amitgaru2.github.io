@@ -29,7 +29,7 @@ The wash sale rule is meant to prevent people from selling a security simply for
 
 ## How to file Wash Sale Loss in your 1099-B form?
 
-You can deduct the Wash Sale from the cost of the stock, if there is no option for you to insert Wash sale in any of the forms provided your tax filing software. This was the `Sale - Cost` becomes `Sale - Cost + Wash Sale Loss`. So, next time when buying or selling same stock symbol in short span of time, keep in mind that it might incur Wash Sale Loss that will impact the Net Profit/Loss in your tax filing form.
+You can deduct the Wash Sale Loss from the cost of the stock if there is no option for you to insert Wash Sale Loss in any of the forms provided your tax filing software. This makes the Net Profit/Loss which is `Sale - Cost` as  `Sale - Cost + Wash Sale Loss`. So, next time when you are buying or selling same stock symbol in short span of time, keep in mind that it might incur Wash Sale Loss that will impact the Net Profit/Loss in your tax filing form.
 
 
 &nbsp;
