@@ -3,6 +3,7 @@ layout: post
 title:  "First Post"
 date:   2025-02-19
 categories: general
+author: GPT-4
 ---
 
 Welcome to My Blog!
@@ -14,10 +15,3 @@ This blog is a space where I’ll explore everything that sparks curiosity—whe
 I hope you’ll enjoy what’s to come, and I’m so glad to have you along for the ride!
 
 Thanks for reading!
-
-
-&nbsp;
-
-&nbsp;  
-
-*- Written by GPT-4*

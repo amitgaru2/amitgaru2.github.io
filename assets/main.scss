@@ -8,3 +8,12 @@
 $base-font-family: "Fira Code", serif;
 
 @import "minima";
+
+a.post-link:hover{
+    text-decoration: none;
+}
+
+// a.site-title:hover{
+//     text-decoration: none;
+// }
+

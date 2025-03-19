@@ -3,6 +3,7 @@ layout: post
 title:  "Wash Sale Loss - Filing your stock broker tax (1099-B)"
 date:   2025-02-19
 categories: finance
+author: GPT-4, Amit
 ---
 
 A wash sale is a tax rule in the United States that occurs when an investor sells a security at a loss and then repurchases the same or a substantially identical security within a 30-day period before or after the sale. The rule is designed to prevent taxpayers from claiming a tax deduction on a loss for a sale that hasn't really changed their investment position.
@@ -30,10 +31,3 @@ The wash sale rule is meant to prevent people from selling a security simply for
 ## How to file Wash Sale Loss in your 1099-B form?
 
 You can deduct the Wash Sale Loss from the cost of the stock if there is no option for you to insert Wash Sale Loss in any of the forms provided your tax filing software. This makes the Net Profit/Loss which is `Sale - Cost` as  `Sale - Cost + Wash Sale Loss`. So, next time when you are buying or selling same stock symbol in short span of time, keep in mind that it might incur Wash Sale Loss that will impact the Net Profit/Loss in your tax filing form.
-
-
-&nbsp;
-
-&nbsp;  
-
-*- Written by GPT-4 & Amit*
