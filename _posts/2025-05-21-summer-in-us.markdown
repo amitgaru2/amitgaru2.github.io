@@ -2,7 +2,7 @@
 layout: post
 title:  "50 Summers, 50 Stories: How Summer Feels in Every Corner of the U.S."
 date:   2025-05-21
-categories: general
+categories: travel
 author: GPT-4
 ---
 
