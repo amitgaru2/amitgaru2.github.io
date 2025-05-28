@@ -4,8 +4,9 @@ title:  "What is Wyoming?"
 date:   2025-03-19
 categories: travel
 author: GPT-4
+thumbnail: "/photos/posts/wyoming-ai-generated.webp"
 ---
-![](</photos/posts/wyoming-ai-generated.webp>)
+![page.title](<{{page.thumbnail}}>)
 
 
 Wyoming is a state in the western United States. It is known for its vast open spaces, rugged landscapes, and low population. Here are some key facts about Wyoming:

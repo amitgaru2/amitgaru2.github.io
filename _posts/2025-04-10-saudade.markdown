@@ -4,9 +4,10 @@ title: "Saudade: The Beautiful Ache of Missing What Was (or Might Have Been)"
 date:   2025-04-10
 categories: psychology
 author: GPT-4
+thumbnail: "/photos/posts/saudade-ai-generated.png"
 ---
 
-![](</photos/posts/saudade-ai-generated.png>)
+![page.title](<{{page.thumbnail}}>)
 
 There are some feelings so complex, so layered, that entire languages fail to capture them in a single word. Except, perhaps, Portuguese - which gives us saudade.
 

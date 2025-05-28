@@ -4,9 +4,10 @@ title:  "50 Summers, 50 Stories: How Summer Feels in Every Corner of the U.S."
 date:   2025-05-21
 categories: travel
 author: GPT-4
+thumbnail: "/photos/posts/summer-in-us-ai-generated.png"
 ---
 
-![](</photos/posts/summer-in-us-ai-generated.png>)
+![page.title](<{{page.thumbnail}}>)
 
 Summer in the United States is as diverse as the landscape itself. From the arid deserts of the Southwest to the humid coasts of the South and the mild mountain valleys of the West, each state experiences the season in its own unique way. Understanding the different types of summer across the U.S. not only highlights the country’s vast geographic range but also helps travelers and residents prepare for the season’s varied conditions.
 

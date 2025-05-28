@@ -4,9 +4,10 @@ title: "The Confidence Paradox: Understanding the Dunning-Kruger Effect"
 date:   2025-04-04
 categories: psychology
 author: GPT-4
+thumbnail: "/photos/posts/the-dunning-kruger-effect-ai-generated.png"
 ---
 
-![](</photos/posts/the-dunning-kruger-effect-ai-generated.png>)
+![page.title](<{{page.thumbnail}}>)
 
 There’s a strange paradox at play in the way we think about our own intelligence and skills: the less we know, the more confident we tend to be. And the more we actually know, the more doubt creeps in. This ironic twist is known as the Dunning-Kruger Effect - a psychological phenomenon that reveals how confidence and competence often move in opposite directions.
 

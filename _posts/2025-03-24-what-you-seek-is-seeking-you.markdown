@@ -4,9 +4,10 @@ title: "What You Seek Is Seeking You: The Interstellar Perspective"
 date:   2025-03-24
 categories: sci-fi
 author: GPT-4
+thumbnail: "/photos/posts/what-you-seek-is-seeking-you-ai-generated.webp"
 ---
-![](</photos/posts/what-you-seek-is-seeking-you-ai-generated.webp>)
 
+![page.title](<{{page.thumbnail}}>)
 
 Christopher Nolan’s Interstellar is more than just a sci-fi epic—it’s a profound meditation on time, love, and the unseen forces that guide us. One of the film’s deepest messages aligns perfectly with Rumi’s timeless wisdom: “What you seek is seeking you.” Through its exploration of space, gravity, and human connection, Interstellar suggests that our greatest desires—whether for knowledge, love, or survival—are not just pursuits, but reciprocal forces drawing us toward them.
 

@@ -4,8 +4,10 @@ title: "The Singularity Is Near: A Summary of Ray Kurzweil’s Vision of the Fut
 date:   2025-03-25
 categories: sci-fi
 author: GPT-4
+thumbnail: "/photos/posts/the-singularity-is-near-ai-generated.webp"
 ---
-![](</photos/posts/the-singularity-is-near-ai-generated.webp>)
+
+![page.title](<{{page.thumbnail}}>)
 
 Ray Kurzweil’s The Singularity Is Near is a groundbreaking exploration of the future of artificial intelligence, human evolution, and the convergence of technology with biology. Published in 2005, the book presents a compelling argument that the pace of technological advancement is accelerating exponentially and will ultimately lead to a radical transformation of human civilization.
 

@@ -21,12 +21,13 @@
 title: Amit Garu
 email: amitgaru2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  See you again.
+  See you again!
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://amitgaru2.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-linkedin_username: amitgaru2
-github_username:  amitgaru2
+# linkedin_username: amitgaru2
+# github_username:  amitgaru2
+# instagram_username: amitgaru2
 
 # Build settings
 theme: minima
@@ -41,7 +42,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _posts/2025-02-19-first-post.markdown
+  - _posts/2025-02-19-wash-sale.markdown
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

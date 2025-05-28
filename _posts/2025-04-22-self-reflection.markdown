@@ -4,9 +4,10 @@ title: "Uncovering the Unseen: Using Self-Reflection to Improve Hidden Bad Habit
 date:   2025-04-22
 categories: psychology
 author: GPT-4
+thumbnail: "/photos/posts/self-reflection-ai-generated.png"
 ---
 
-![](</photos/posts/self-reflection-ai-generated.png>)
+![page.title](<{{page.thumbnail}}>)
 
 
 We all have habits—some we’re proud of, others we’re actively trying to change. But perhaps the most difficult ones to deal with are the habits we don’t think are bad. These are the subtle behaviors, patterns, and mindsets that fly under our radar because they’ve become so familiar… or even feel justified.
