@@ -3,7 +3,7 @@ layout: post
 title: "The Fear of Disillusionment: When Memory Feels Safer Than Reality"
 date:   2025-06-25
 categories: psychology
-author: GPT-4
+author: GPT-4, Gemini 2.5
 thumbnail: "/photos/posts/the-fear-of-disillusionment-ai-generated.png"
 ---
 
