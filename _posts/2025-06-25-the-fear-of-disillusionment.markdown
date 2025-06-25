@@ -25,21 +25,21 @@ There was no fight, no betrayal—just time. And time, left untested, allows mem
 
 
 ## Literary Echoes of This Fear
-  
-  ### 1. Marcel Proust’s In Search of Lost Time
+
+**1. Marcel Proust’s In Search of Lost Time**
      
   In this monumental novel, Proust illustrates how revisiting people or places from the past rarely satisfies the emotional ideal we associate with them. When the narrator finally encounters people from his youth again, they’re changed—aged, unrecognizable, and lacking the aura memory once bestowed. The result is not closure, but quiet grief.
   
   `“We never see people dear to us except in the animated system of our recollections of them…”`
 
-  ### 2. F. Scott Fitzgerald’s The Great Gatsby
+**2. F. Scott Fitzgerald’s The Great Gatsby**
 
   Jay Gatsby is driven by the desire to reconnect with Daisy, the love of his youth. But the version of Daisy that lives in Gatsby’s mind—a romanticized, idealized version—cannot survive real contact. 
   When he finally does meet her again, the illusion begins to unravel.
 
   `“There must have been moments even that afternoon when Daisy tumbled short of his dreams… because of the colossal vitality of his illusion.”`
 
-  ### 3. Your Experience: The Pre-Emptive Distance
+**3. Your Experience: The Pre-Emptive Distance**
 
   You described a subtle, powerful variation: the relationship isn’t broken, and there’s no resentment. But there’s a possibility—however small—that seeing the person again might create a fracture where none exists.
   To protect that unbroken sense of peace, you choose silence.
@@ -49,7 +49,7 @@ There was no fight, no betrayal—just time. And time, left untested, allows mem
 
 ## Cinema’s Depiction of Disillusionment
 
-  ### 4. Before Sunset (2004, dir. Richard Linklater)
+**4. Before Sunset (2004, dir. Richard Linklater)**
 
   Jesse and Céline reunite years after a romantic night in Vienna. Both are older, heavier with life’s burdens. Their conversation is magnetic, but under it all lies the fear: What if this isn’t what we imagined?
  
@@ -57,7 +57,7 @@ There was no fight, no betrayal—just time. And time, left untested, allows mem
 
   The film captures the tension between nostalgia and present reality: the past is sweeter because it is incomplete.
 
-  ### 5. La La Land (2016)
+**5. La La Land (2016)**
 
   Mia and Sebastian share a final, silent look in a jazz bar years after their relationship ends. 
   The unspoken understanding is this: what they had was beautiful because it ended when it did. Their imagined life plays out in a dreamy montage—perfect in memory, impossible in reality.
@@ -65,7 +65,7 @@ There was no fight, no betrayal—just time. And time, left untested, allows mem
 
 ## Musical Reflections
 
-  ### 6. “The Night We Met” – Lord Huron
+**6. “The Night We Met” – Lord Huron**
 
   `“I had all and then most of you, some and now none of you…”`
 
