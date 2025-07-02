@@ -4,10 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo title=False -%}
     <title>{{site.title|escape}}</title>
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ " /assets/main.css" | relative_url }}">
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
+    {%- include google-analytics.html -%}
     {%- endif -%}
-  </head>
-  
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5932684017384529"
+        crossorigin="anonymous"></script>
+</head>
