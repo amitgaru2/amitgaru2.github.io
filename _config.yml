@@ -43,6 +43,8 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - _posts/
+  - index.markdown
   - _posts/2025-02-19-first-post.markdown
   - _posts/2025-02-19-wash-sale.markdown
 #   - .sass-cache/
